@@ -1,5 +1,5 @@
 # Docker compose to build and run the eureka service
-version: '2'
+version: '3'
 services:
   hystrix-dashboard:
     build:
